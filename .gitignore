@@ -1,0 +1,6 @@
+*.log
+*.info
+Library/
+Temp/
+TIRVNTGTWIGT2D/Library/
+TIRVNTGTWIGT2D/Temp/
